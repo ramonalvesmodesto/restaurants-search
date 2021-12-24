@@ -1,0 +1,72 @@
+{
+  "name": "restaurants-search",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material/react-material-icon": "^0.15.0",
+    "@material/react-text-field": "^0.15.0",
+    "@testing-library/jest-dom": "^5.16.1",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^13.5.0",
+    "airbnb": "^0.0.2",
+    "google-maps-react": "^2.0.6",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-lottie": "^1.2.3",
+    "react-rating-stars-component": "^2.2.0",
+    "react-redux": "^7.2.6",
+    "react-scripts": "5.0.0",
+    "react-slick": "^0.28.1",
+    "redux": "^4.1.2",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.3.3",
+    "styled-reset": "^4.3.4",
+    "web-vitals": "^2.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "eslint": "eslint ./src/*.js"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {
+    "@babel/core": "^7.16.5",
+    "@babel/preset-env": "^7.16.5",
+    "@babel/preset-react": "^7.16.5",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^8.2.3",
+    "babel-plugin-module-resolver": "^4.1.0",
+    "eslint": "^8.5.0",
+    "eslint-config-airbnb": "^19.0.2",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.27.1",
+    "eslint-watch": "^8.0.0",
+    "prettier": "^2.5.1"
+  },
+  "author": "Ramon Alves Modesto",
+  "license": "ISC"
+}
