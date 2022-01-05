@@ -7,7 +7,7 @@ Projeto busca de restaurantes. Nesse projeto foi criado um site onde é possíve
 Os usuários devem ser capazes de:
 
 - Visualizar restaurantes das aproximidades
-- Buscar restauntes pelo tipo de serviço que oferecem
+- Buscar restaurantes pelo tipo de serviço que oferecem
 - Exibir um mapa que identifica esses restaurantes
 
 ### Captura de tela :computer:
@@ -30,7 +30,7 @@ Os usuários devem ser capazes de:
 
 ### O que aprendi 
 
-Nesse desafio aprendi como a contruir sites usando componentes, como contruir sites usando xml e css com o Styles Components dentro de um arquivo JavaScript, a com implentar o Redux, como rederizar um elemento que existe fora da hierarquia de um componete pai usando Portals
+Nesse desafio aprendi como a contruir sites usando componentes, como contruir sites usando xml e css com o Styles Components dentro de um arquivo JavaScript, a como implentar o Redux, como renderizar um elemento que existe fora da hierarquia de um componete pai usando Portals
 
 APIs: API PLACES E MAPS DO GOOGLE
 
